@@ -18,8 +18,8 @@ Advantage of Round Robin Scheduling:
 The shortest job first (SJF) or shortest job next, is a scheduling policy that selects the waiting process with the smallest execution time to execute next. SJN, also known as Shortest Job Next (SJN), can be preemptive or non-preemptive.  
 
 Advantages of SJF:
-SJF is better than the First come first serve(FCFS) algorithm as it reduces the average waiting time.
-SJF is generally used for long term scheduling
-It is suitable for the jobs running in batches, where run times are already known.
-SJF is probably optimal in terms of average turnaround time.
++ SJF is better than the First come first serve(FCFS) algorithm as it reduces the average waiting time.
++ SJF is generally used for long term scheduling
++ It is suitable for the jobs running in batches, where run times are already known.
++ SJF is probably optimal in terms of average turnaround time.
 
