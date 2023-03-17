@@ -5,7 +5,7 @@ This Assignment contains Java implementations of two CPU scheduling algorithms: 
 ## Round Robin (RR) Algorithm
 Round Robin (RR) algorithm is a CPU scheduling algorithm. It is also used in network schedulers. It is especially designed for time sharing system. It is also known as time slicing scheduling algorithm. It is closely similar to FCFS scheduling. In this section, we will discuss the round robin scheduling algorithm and its implementation in a Java program.
 
-you cand find the code <a href="https://github.com/7ANOTIKOV/OS-assignment/blob/main/src/RoundRobin.java">here</a>
+you can find the code <a href="https://github.com/7ANOTIKOV/OS-assignment/blob/main/src/RoundRobin.java">here</a>
 
 ![My Image](RR%20output.png)
 
@@ -20,6 +20,8 @@ Advantage of Round Robin Scheduling:
 
 ## Shortest Job First Algorithm
 The shortest job first (SJF) or shortest job next, is a scheduling policy that selects the waiting process with the smallest execution time to execute next. SJN, also known as Shortest Job Next (SJN), can be preemptive or non-preemptive. 
+
+you can find the code <a href="https://github.com/7ANOTIKOV/OS-assignment/blob/main/src/ShortestJobFirst.java">here</a>
 
 ![My Image](SJF%20output.png)
 
