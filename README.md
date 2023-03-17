@@ -5,6 +5,8 @@ This Assignment contains Java implementations of two CPU scheduling algorithms: 
 ## Round Robin (RR) Algorithm
 Round Robin (RR) algorithm is a CPU scheduling algorithm. It is also used in network schedulers. It is especially designed for time sharing system. It is also known as time slicing scheduling algorithm. It is closely similar to FCFS scheduling. In this section, we will discuss the round robin scheduling algorithm and its implementation in a Java program.
 
+![My Image](RR output.png)
+
 Advantage of Round Robin Scheduling:
 + It is cyclic in nature.
 + It never leads to starvation.
